@@ -7,5 +7,5 @@ It is based on [Colemak](https://colemak.com/) with þe [A-Wing mod](https://col
 
 # Installation
 
-To install just install [Keyman](https://keyman.com/downloads/) and add it from there
+To install just install [Keyman](https://keyman.com/downloads/) and add it from þere
 Unsure on if it would work on mobile/touch stuffs so no promises!!!!!
