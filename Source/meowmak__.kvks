@@ -5,4 +5,47 @@
     <kbdname>meowmak__</kbdname>
     <flags/>
   </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="">
+      <key vkey="K_Q">[</key>
+      <key vkey="K_W">q</key>
+      <key vkey="K_E">w</key>
+      <key vkey="K_R">f</key>
+      <key vkey="K_T">p</key>
+      <key vkey="K_Y">g</key>
+      <key vkey="K_U">j</key>
+      <key vkey="K_I">l</key>
+      <key vkey="K_O">u</key>
+      <key vkey="K_P">y</key>
+      <key vkey="K_LBRKT">;</key>
+      <key vkey="K_RBRKT">'</key>
+      <key vkey="K_BKSLASH">\</key>
+      <key vkey="K_QUOTE">o</key>
+      <key vkey="K_COLON">i</key>
+      <key vkey="K_L">e</key>
+      <key vkey="K_K">n</key>
+      <key vkey="K_J">h</key>
+      <key vkey="K_H">d</key>
+      <key vkey="K_G">t</key>
+      <key vkey="K_F">s</key>
+      <key vkey="K_D">r</key>
+      <key vkey="K_S">a</key>
+      <key vkey="K_A">]</key>
+      <key vkey="K_Z">z</key>
+      <key vkey="K_X">x</key>
+      <key vkey="K_C">c</key>
+      <key vkey="K_V">v</key>
+      <key vkey="K_B">b</key>
+      <key vkey="K_N">þ</key>
+      <key vkey="K_M">k</key>
+      <key vkey="K_COMMA">m</key>
+      <key vkey="K_PERIOD">,</key>
+      <key vkey="K_SLASH">.</key>
+    </layer>
+    <layer shift="A">
+      <key vkey="K_SLASH">/</key>
+      <key vkey="K_PERIOD">/</key>
+      <key vkey="K_N">Þ</key>
+    </layer>
+  </encoding>
 </visualkeyboard>
